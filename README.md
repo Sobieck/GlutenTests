@@ -5,6 +5,12 @@
 
 ### Negative Tests
 
+#### 1/26/2022
+1. Vitamin D3 1000IU Major NDC: 80681-0169-00 (Can't find in the ndclist.com)
+1. [ALEVE 220 mg Bayer](https://www.amazon.com/dp/B008Q5LXIE?amp=&crid=19WG200255YQG&amp=&sprefix=aleve&linkCode=ll1&tag=sobieck-20&linkId=d69f1cc67b7e899303636774edc41f9e&language=en_US&ref_=as_li_ss_tl) 
+1. [Benadryl 25 mg](https://www.amazon.com/dp/B00GA9AVH2?amp=&crid=1A3WX8G6HMZQC&amp=&sprefix=ben&linkCode=ll1&tag=sobieck-20&linkId=032d3e63355f7d4b4ca85d22a9c60136&language=en_US&ref_=as_li_ss_tl)
+1. [MAGTEIN│Magnesium L Threonate 90 Capsules](https://www.amazon.com/MAGTEIN%E2%94%82Magnesium-Threonate-Absorption-Bioavailable-Supplement/dp/B08GBGV44D?cv_ct_cx=magnesium&keywords=magnesium&pd_rd_i=B08GBGV44D&pd_rd_r=f08b2686-3ee8-4f82-acf6-a88fa4b40e5a&pd_rd_w=OEw07&pd_rd_wg=Ip22G&pf_rd_p=dc8286ba-5f1e-4679-adde-8b7fe66c128e&pf_rd_r=184YPMZDCTPC7ZGA1WV6&psc=1&qid=1643208554&sprefix=magn%2Caps%2C276&sr=1-1-5e1b2986-06e6-4004-a85e-73bfa3ee44fe&linkCode=ll1&tag=sobieck-20&linkId=1bf7767e46bbbb5f582effc81f5d7338&language=en_US&ref_=as_li_ss_tl)
+
 #### 1/25/2022
 1. [Dry Roasted Edaname Sea Salt](https://www.amazon.com/dp/B00F9XUMS8?amp=&crid=2GL0LPUJNTWF&amp=&sprefix=dry+roa&linkCode=ll1&tag=sobieck-20&linkId=8d244d5ea9baada79ba7e10f2c5e4ce6&language=en_US&ref_=as_li_ss_tl)
 1. [Orrington Farms Broth Base, Chicken, Vegan](https://www.amazon.com/Orrington-Farms-Natural-Seasoning-Chicken/dp/B00RXAK1PE?cv_ct_cx=orrington+farms+broth+base&keywords=orrington+farms+broth+base&pd_rd_i=B00RXAK1PE&pd_rd_r=1f7c12ff-0157-4c11-afe7-07a7efa8c7ab&pd_rd_w=n2rP8&pd_rd_wg=A67Nq&pf_rd_p=dc8286ba-5f1e-4679-adde-8b7fe66c128e&pf_rd_r=2Y7H318WS3GNHQTT4NEY&psc=1&qid=1643120806&sr=1-1-5e1b2986-06e6-4004-a85e-73bfa3ee44fe&linkCode=ll1&tag=sobieck-20&linkId=d114436513c011433a5ac83caeecd547&language=en_US&ref_=as_li_ss_tl)
