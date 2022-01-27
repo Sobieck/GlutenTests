@@ -5,6 +5,12 @@
 
 ### Negative Tests
 
+#### 1/27/2022
+1. [Zinc 50mg Supplement 120 Vegetarian Capsules](https://www.amazon.com/dp/B0872LTFP9?amp=&crid=2V8C7KW09FINY&amp=&sprefix=zinc&linkCode=ll1&tag=sobieck-20&linkId=6f2471e57d5f79bb749ae2d2fed3bb6d&language=en_US&ref_=as_li_ss_tl)
+1. [Amazon Basic Care Original Strength Famotidine Tablets, 10 mg, Acid Reducer for Heartburn Relief](https://www.amazon.com/dp/B07MBR87NG?amp=&crid=SMND71S1SAKW&amp=&sprefix=acid+re&linkCode=ll1&tag=sobieck-20&linkId=05e84e257d073d9fb2307adda3ef7430&language=en_US&ref_=as_li_ss_tl)
+1. [ValuMeds 24-Hour Allergy Medicine (300-Count) Antihistamine for Pollen, Hay Fever, Dry, Itchy Eyes, Allergies | Cetirizine HCl 10mg Caplets](https://www.amazon.com/dp/B07KFPLDGB?amp=&crid=1M85TT2KG7YJ8&amp=&sprefix=allergy+re&linkCode=ll1&tag=sobieck-20&linkId=825dc089dc9b457f623aff3cb8cfbdbd&language=en_US&ref_=as_li_ss_tl)
+1. Schnucks Sliced Water Chestnuts
+
 #### 1/26/2022
 1. Vitamin D3 1000IU Major NDC: 80681-0169-00 (Can't find in the ndclist.com)
 1. [ALEVE 220 mg Bayer](https://www.amazon.com/dp/B008Q5LXIE?amp=&crid=19WG200255YQG&amp=&sprefix=aleve&linkCode=ll1&tag=sobieck-20&linkId=d69f1cc67b7e899303636774edc41f9e&language=en_US&ref_=as_li_ss_tl) 
