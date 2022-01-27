@@ -1,7 +1,10 @@
 ### Positive Tests
 
 #### 1/27/2022
-1. [Zinc 50mg Supplement 120 Vegetarian Capsules Gluten Free](https://www.amazon.com/dp/B0872LTFP9?amp=&crid=2V8C7KW09FINY&amp=&sprefix=zinc&linkCode=ll1&tag=sobieck-20&linkId=6f2471e57d5f79bb749ae2d2fed3bb6d&language=en_US&ref_=as_li_ss_tl) LOT#: 19D/210209A 
+1. [Zinc 50mg Supplement 120 Vegetarian Capsules Gluten Free](https://www.amazon.com/dp/B0872LTFP9?amp=&crid=2V8C7KW09FINY&amp=&sprefix=zinc&linkCode=ll1&tag=sobieck-20&linkId=6f2471e57d5f79bb749ae2d2fed3bb6d&language=en_US&ref_=as_li_ss_tl) LOT#: [19D/210209A](https://raw.githubusercontent.com/Sobieck/GlutenTests/main/img/20220127_175242436_iOS.jpg) 
+![Picture of the front of the package](https://raw.githubusercontent.com/Sobieck/GlutenTests/main/img/20220127_175227339_iOS.jpg "Zinc 50mg Supplement 120 Vegetarian Capsules Gluten Free")
+
+I tested this product 4 times. The first time I crushed up the capsule with a mortar and pestle. It resulted in a [positive test](https://raw.githubusercontent.com/Sobieck/GlutenTests/main/img/20220127_175138012_iOS.jpg). The next two times I did not crust the capsule, just take it apart, put the powder in the solution and then the capsule in the solution. Those two were [not](https://raw.githubusercontent.com/Sobieck/GlutenTests/main/img/20220127_175206543_iOS.jpg) [positive](https://github.com/Sobieck/GlutenTests/blob/main/img/20220127_175219473_iOS.jpg). The final one I repeated the steps in the first test. That resulted in another [positive test](https://raw.githubusercontent.com/Sobieck/GlutenTests/main/img/20220127_175152408_iOS.jpg). I think that means there may be gluten in the capsule itself. 
 
 #### Sometime before 1/23/2022
 3. [Efferdent - Fresh and Clean](https://www.amazon.com/gp/product/B011CXE8AQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011CXE8AQ&linkCode=as2&tag=sobieck-20&linkId=6893fbba9473087ba2d61cf639bec58b)  
