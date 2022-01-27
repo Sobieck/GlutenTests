@@ -1,12 +1,15 @@
 ### Positive Tests
 
-1. [Efferdent - Fresh and Clean](https://www.amazon.com/gp/product/B011CXE8AQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011CXE8AQ&linkCode=as2&tag=sobieck-20&linkId=6893fbba9473087ba2d61cf639bec58b) - Sometime before 1/23/2022
-1. Wheat Cereal to see if the tests worked
+#### 1/27/2022
+1. [Zinc 50mg Supplement 120 Vegetarian Capsules](https://www.amazon.com/dp/B0872LTFP9?amp=&crid=2V8C7KW09FINY&amp=&sprefix=zinc&linkCode=ll1&tag=sobieck-20&linkId=6f2471e57d5f79bb749ae2d2fed3bb6d&language=en_US&ref_=as_li_ss_tl)
+
+Sometime before 1/23/2022
+3. [Efferdent - Fresh and Clean](https://www.amazon.com/gp/product/B011CXE8AQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011CXE8AQ&linkCode=as2&tag=sobieck-20&linkId=6893fbba9473087ba2d61cf639bec58b)  
+4. Wheat Cereal to see if the tests worked
 
 ### Negative Tests
 
 #### 1/27/2022
-1. [Zinc 50mg Supplement 120 Vegetarian Capsules](https://www.amazon.com/dp/B0872LTFP9?amp=&crid=2V8C7KW09FINY&amp=&sprefix=zinc&linkCode=ll1&tag=sobieck-20&linkId=6f2471e57d5f79bb749ae2d2fed3bb6d&language=en_US&ref_=as_li_ss_tl)
 1. [Amazon Basic Care Original Strength Famotidine Tablets, 10 mg, Acid Reducer for Heartburn Relief](https://www.amazon.com/dp/B07MBR87NG?amp=&crid=SMND71S1SAKW&amp=&sprefix=acid+re&linkCode=ll1&tag=sobieck-20&linkId=05e84e257d073d9fb2307adda3ef7430&language=en_US&ref_=as_li_ss_tl)
 1. [ValuMeds 24-Hour Allergy Medicine (300-Count) Antihistamine for Pollen, Hay Fever, Dry, Itchy Eyes, Allergies | Cetirizine HCl 10mg Caplets](https://www.amazon.com/dp/B07KFPLDGB?amp=&crid=1M85TT2KG7YJ8&amp=&sprefix=allergy+re&linkCode=ll1&tag=sobieck-20&linkId=825dc089dc9b457f623aff3cb8cfbdbd&language=en_US&ref_=as_li_ss_tl)
 1. Schnucks Sliced Water Chestnuts
