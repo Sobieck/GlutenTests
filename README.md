@@ -1,5 +1,8 @@
 ### Positive Tests
 
+#### 1/29/2022
+1. [Magtein Magnesium Supplement](https://www.amazon.com/dp/B08GBGV44D?amp=&crid=3PTP1F3UQHUO3&amp=&sprefix=magnesium&linkCode=ll1&tag=sobieck-20&linkId=a453ab1fc60401954793255393f18e40&language=en_US&ref_=as_li_ss_tl)
+
 #### 1/27/2022
 1. [Zinc 50mg Supplement 120 Vegetarian Capsules Gluten Free](https://www.amazon.com/dp/B0872LTFP9?amp=&crid=2V8C7KW09FINY&amp=&sprefix=zinc&linkCode=ll1&tag=sobieck-20&linkId=6f2471e57d5f79bb749ae2d2fed3bb6d&language=en_US&ref_=as_li_ss_tl) LOT#: [19D/210209A](https://raw.githubusercontent.com/Sobieck/GlutenTests/main/img/20220127_175242436_iOS.jpg) 
 ![Picture of the front of the package](https://raw.githubusercontent.com/Sobieck/GlutenTests/main/img/20220127_175227339_iOS.jpg "Zinc 50mg Supplement 120 Vegetarian Capsules Gluten Free")
@@ -11,6 +14,10 @@ I tested this product 4 times. The first time I crushed up the capsule with a mo
 4. Wheat Cereal to see if the tests worked
 
 ### Negative Tests
+
+#### 1/29/2022
+1. [Bush's Large Butter Beans](https://www.bushbeans.com/en_US/product/large-butter-beans)
+1. [Health Valley Vegetable Soup](https://www.amazon.com/dp/B001BM3H8I?amp=&crid=1F7HP1S6PARJE&amp=&sprefix=vegetable+soup&linkCode=ll1&tag=sobieck-20&linkId=20598bc6150e54912a156ea9b2832359&language=en_US&ref_=as_li_ss_tl)
 
 #### 1/27/2022
 1. [Amazon Basic Care Original Strength Famotidine Tablets, 10 mg, Acid Reducer for Heartburn Relief](https://www.amazon.com/dp/B07MBR87NG?amp=&crid=SMND71S1SAKW&amp=&sprefix=acid+re&linkCode=ll1&tag=sobieck-20&linkId=05e84e257d073d9fb2307adda3ef7430&language=en_US&ref_=as_li_ss_tl)
