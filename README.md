@@ -1,7 +1,7 @@
 ### Positive Tests
 
 #### 1/29/2022
-1. [Magtein Magnesium Supplement](https://www.amazon.com/dp/B08GBGV44D?amp=&crid=3PTP1F3UQHUO3&amp=&sprefix=magnesium&linkCode=ll1&tag=sobieck-20&linkId=a453ab1fc60401954793255393f18e40&language=en_US&ref_=as_li_ss_tl)
+1. [Magtein Magnesium Supplement](https://www.amazon.com/dp/B08GBGV44D?amp=&crid=3PTP1F3UQHUO3&amp=&sprefix=magnesium&linkCode=ll1&tag=sobieck-20&linkId=a453ab1fc60401954793255393f18e40&language=en_US&ref_=as_li_ss_tl) - maybe, very faint third line. 
 
 #### 1/27/2022
 1. [Zinc 50mg Supplement 120 Vegetarian Capsules Gluten Free](https://www.amazon.com/dp/B0872LTFP9?amp=&crid=2V8C7KW09FINY&amp=&sprefix=zinc&linkCode=ll1&tag=sobieck-20&linkId=6f2471e57d5f79bb749ae2d2fed3bb6d&language=en_US&ref_=as_li_ss_tl) LOT#: [19D/210209A](https://raw.githubusercontent.com/Sobieck/GlutenTests/main/img/20220127_175242436_iOS.jpg) 
