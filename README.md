@@ -15,6 +15,11 @@ I tested this product 4 times. The first time I crushed up the capsule with a mo
 
 ### Negative Tests
 
+#### 1/31/2022
+1. [Hunts Fire Roasted Diced Tomatoes Garlic](https://www.hunts.com/diced-tomatoes/fire-roasted-diced-tomatoes-garlic)
+1. [Magtein Magnesium Supplement](https://www.amazon.com/dp/B08GBGV44D?amp=&crid=3PTP1F3UQHUO3&amp=&sprefix=magnesium&linkCode=ll1&tag=sobieck-20&linkId=a453ab1fc60401954793255393f18e40&language=en_US&ref_=as_li_ss_tl)
+1. [Ciclopirox Cream 0.77%](https://ndclist.com/ndc/68462-297/package/68462-297-35)
+
 #### 1/29/2022
 1. [Bush's Large Butter Beans](https://www.bushbeans.com/en_US/product/large-butter-beans)
 1. [Health Valley Vegetable Soup](https://www.amazon.com/dp/B001BM3H8I?amp=&crid=1F7HP1S6PARJE&amp=&sprefix=vegetable+soup&linkCode=ll1&tag=sobieck-20&linkId=20598bc6150e54912a156ea9b2832359&language=en_US&ref_=as_li_ss_tl)
