@@ -14,6 +14,11 @@ I tested this product 4 times. The first time I crushed up the capsule with a mo
 4. Wheat Cereal to see if the tests worked
 
 ### Negative Tests
+#### 2/2/2022
+1. [Bounty Paper Towels](https://bountytowels.com/en-us)
+1. [Magnesium 200 mg](https://www.amazon.com/gp/product/B002TU58QA?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=85912d68de3105d50ac48a6ecf15c7d2&language=en_US&ref_=as_li_ss_tl)
+1. [Sun-Maid - California Raisins](https://www.amazon.com/gp/product/B00286361O?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=3836f1770130208c44f757a2d463ebb1&language=en_US&ref_=as_li_ss_tl)
+1. [Softsoap Advanced Clean](https://www.amazon.com/gp/product/B00CVPHVUE?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=2d912a4519eb0fbe21734dc18824c993&language=en_US&ref_=as_li_ss_tl)
 
 #### 1/31/2022
 1. [Hunts Fire Roasted Diced Tomatoes Garlic](https://www.hunts.com/diced-tomatoes/fire-roasted-diced-tomatoes-garlic)
