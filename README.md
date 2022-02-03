@@ -14,6 +14,14 @@ I tested this product 4 times. The first time I crushed up the capsule with a mo
 4. Wheat Cereal to see if the tests worked
 
 ### Negative Tests
+
+#### 2/3/2022
+
+1. [Azelastine HCI Spray 137 mcg per spray NDC: 51991-814-03](https://ndclist.com/ndc/51991-814/package/51991-814-03)
+1. [Magnesium 200 mg](https://www.amazon.com/gp/product/B002TU58QA?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=85912d68de3105d50ac48a6ecf15c7d2&language=en_US&ref_=as_li_ss_tl)
+1. [Nasacort Allergy 24HR Nasal Spray for Adults](https://www.amazon.com/gp/product/B00M1QM8EM?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=bd50fe27f05ac50ad9a1ef212f0b4bb7&language=en_US&ref_=as_li_ss_tl)
+1. [Califia Farms - Almond Milk, Unsweetened Barista Blend, 32 Oz](https://www.amazon.com/gp/product/B07F39QPWS?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=c94669212a90f82f1cea63011a0e7caf&language=en_US&ref_=as_li_ss_tl)
+
 #### 2/2/2022
 1. [Bounty Paper Towels](https://bountytowels.com/en-us)
 1. [Magnesium 200 mg](https://www.amazon.com/gp/product/B002TU58QA?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=85912d68de3105d50ac48a6ecf15c7d2&language=en_US&ref_=as_li_ss_tl)
