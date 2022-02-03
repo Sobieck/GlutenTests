@@ -1,7 +1,7 @@
 ### Positive Tests
 
 #### 2/3/2022
-1. 1. [Magnesium 200 mg](https://www.amazon.com/gp/product/B002TU58QA?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=85912d68de3105d50ac48a6ecf15c7d2&language=en_US&ref_=as_li_ss_tl)
+1. [Bluebonnet Nutrition Albion Buffered Chelated Magnesium 200 mg, Magnesium Oxide](https://www.amazon.com/gp/product/B002TU58QA?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=85912d68de3105d50ac48a6ecf15c7d2&language=en_US&ref_=as_li_ss_tl) - 10900301
 
 #### 1/29/2022
 1. [Magtein Magnesium Supplement](https://www.amazon.com/dp/B08GBGV44D?amp=&crid=3PTP1F3UQHUO3&amp=&sprefix=magnesium&linkCode=ll1&tag=sobieck-20&linkId=a453ab1fc60401954793255393f18e40&language=en_US&ref_=as_li_ss_tl) - maybe, very faint third line. 
