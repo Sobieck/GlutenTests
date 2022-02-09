@@ -14,10 +14,16 @@
 I tested this product 4 times. The first time I crushed up the capsule with a mortar and pestle. It resulted in a [positive test](https://raw.githubusercontent.com/Sobieck/GlutenTests/main/img/20220127_175138012_iOS.jpg). The next two times I did not crust the capsule, just take it apart, put the powder in the solution and then the capsule in the solution. Those two were [inconclusive](https://raw.githubusercontent.com/Sobieck/GlutenTests/main/img/20220127_175206543_iOS.jpg) and [not positive](https://github.com/Sobieck/GlutenTests/blob/main/img/20220127_175219473_iOS.jpg). The final one I repeated the steps in the first test. That resulted in another [positive test](https://raw.githubusercontent.com/Sobieck/GlutenTests/main/img/20220127_175152408_iOS.jpg). I think that means there may be gluten in the capsule itself. 
 
 #### Sometime before 1/23/2022
-3. [Efferdent - Fresh and Clean](https://www.amazon.com/gp/product/B011CXE8AQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011CXE8AQ&linkCode=as2&tag=sobieck-20&linkId=6893fbba9473087ba2d61cf639bec58b)  
-4. Wheat Cereal to see if the tests worked
+1. [Efferdent - Fresh and Clean](https://www.amazon.com/gp/product/B011CXE8AQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011CXE8AQ&linkCode=as2&tag=sobieck-20&linkId=6893fbba9473087ba2d61cf639bec58b)  
+1. Wheat Cereal to see if the tests worked
 
 ### Negative Tests
+
+#### 2/8/2022
+1. [Pepto Bismol Chewables](https://www.amazon.com/Pepto-Bismol-Including-Diarrhea-Original-Chewable/dp/B004AZZDW6?keywords=pepto+tablets&qid=1644414399&sprefix=pepto+tab%2Caps%2C100&sr=8-3&linkCode=ll1&tag=sobieck-20&linkId=8e69ff520dc178d88f4ed60216147b83&language=en_US&ref_=as_li_ss_tl)
+1. [San-J Tamari Gluten Free Soy Sauce, Black Bottle](https://www.amazon.com/dp/B01BMYSNSS?amp=&crid=IR6UNWF4V2Z0&amp=&sprefix=soy+sauc&linkCode=ll1&tag=sobieck-20&linkId=543b45665e3e701d4b5a60d2e611fc59&language=en_US&ref_=as_li_ss_tl)
+1. [Nature's Bounty B-12 5000 mcg Sublingual Liquid Energy Health](https://www.amazon.com/dp/B006BY0JPA?amp=&crid=2BC18W7SIM0Z6&amp=&sprefix=b-12+complex+liqui&linkCode=ll1&tag=sobieck-20&linkId=3e8720a1379da6e14f512c526fc57ad5&language=en_US&ref_=as_li_ss_tl)
+1. [Amazon Brand - Revly Acetyl L-Carnitine, 500 mg, 100 Tablets, Vegan](https://www.amazon.com/dp/B07DR54X3F?amp=&crid=2VC49QXYG5170&amp=&sprefix=l-ca&linkCode=ll1&tag=sobieck-20&linkId=9e6181c9f6de60224393f94de9d796b6&language=en_US&ref_=as_li_ss_tl)
 
 #### 2/3/2022
 
