@@ -19,6 +19,12 @@ I tested this product 4 times. The first time I crushed up the capsule with a mo
 
 ### Negative Tests
 
+#### 2/15/2022
+1. Clovers magnesium glycinate 
+1. Clovers Vitamin D3
+1. [Amazon Brand - Revly Acetyl L-Carnitine, 500 mg, 100 Tablets, Vegan](https://www.amazon.com/dp/B07DR54X3F?amp=&crid=2VC49QXYG5170&amp=&sprefix=l-ca&linkCode=ll1&tag=sobieck-20&linkId=9e6181c9f6de60224393f94de9d796b6&language=en_US&ref_=as_li_ss_tl)
+1. [Bushs Reduced Sodium Garbanzo Beans](https://www.bushbeans.com/en_US/product/reduced-sodium-garbanzo-beans-chick-peas)
+
 #### 2/14/2022
 1. Schnucks Tomatos Sauce 29 oz
 1. Schnucks Oregano Leaves
@@ -57,7 +63,7 @@ I tested this product 4 times. The first time I crushed up the capsule with a mo
 
 #### 1/27/2022
 1. [Amazon Basic Care Original Strength Famotidine Tablets, 10 mg, Acid Reducer for Heartburn Relief](https://www.amazon.com/dp/B07MBR87NG?amp=&crid=SMND71S1SAKW&amp=&sprefix=acid+re&linkCode=ll1&tag=sobieck-20&linkId=05e84e257d073d9fb2307adda3ef7430&language=en_US&ref_=as_li_ss_tl)
-1. [ValuMeds 24-Hour Allergy Medicine (300-Count) Antihistamine for Pollen, Hay Fever, Dry, Itchy Eyes, Allergies | Cetirizine HCl 10mg Caplets](https://www.amazon.com/dp/B07KFPLDGB?amp=&crid=1M85TT2KG7YJ8&amp=&sprefix=allergy+re&linkCode=ll1&tag=sobieck-20&linkId=825dc089dc9b457f623aff3cb8cfbdbd&language=en_US&ref_=as_li_ss_tl)
+1. [ValuMeds 24-Hour Allergy Medicine (300-Count) Cetirizine HCl 10mg Caplets](https://www.amazon.com/dp/B07KFPLDGB?amp=&crid=1M85TT2KG7YJ8&amp=&sprefix=allergy+re&linkCode=ll1&tag=sobieck-20&linkId=825dc089dc9b457f623aff3cb8cfbdbd&language=en_US&ref_=as_li_ss_tl)
 1. Schnucks Sliced Water Chestnuts
 1. [Bush's Black Eyed Peas](https://www.bushbeans.com/en_US/product/blackeye-peas) 
 
