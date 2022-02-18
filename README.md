@@ -19,6 +19,12 @@ I tested this product 4 times. The first time I crushed up the capsule with a mo
 
 ### Negative Tests
 
+#### 2/18/2022
+1. [Sensodyne Pronamel](https://www.amazon.com/Sensodyne-Pronamel-Whitening-Strengthening-Toothpaste/dp/B0762LYFKP?keywords=sensodyne+toothpaste&qid=1645207271&sprefix=senso%2Caps%2C134&sr=8-6&linkCode=ll1&tag=sobieck-20&linkId=23062bde4a8ed15dd2eb9643318fff65&language=en_US&ref_=as_li_ss_tl)
+1. [Tums Peppermint Ultra Strength](https://www.amazon.com/dp/B076PP4LSF?amp=&crid=34QUQXCZDUUPE&amp=&sprefix=tums&linkCode=ll1&tag=sobieck-20&linkId=835d25bebb4686656d6a0230fbab55d7&language=en_US&ref_=as_li_ss_tl)
+1. [Bushs Black Beans](https://www.bushbeans.com/en_US/product/black-beans)
+1. [Bushs Kidney Beans](https://www.bushbeans.com/en_US/product/dark-red-kidney-beans)
+
 #### 2/15/2022
 1. Clovers magnesium glycinate 
 1. Clovers Vitamin D3
