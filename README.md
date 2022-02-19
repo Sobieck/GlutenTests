@@ -19,6 +19,12 @@ I tested this product 4 times. The first time I crushed up the capsule with a mo
 
 ### Negative Tests
 
+#### 2/19/2022
+1. [Buddy Biscuits Grain Free Dog Treats](https://www.amazon.com/dp/B008BE7ZB4?amp=&crid=2EKEDQJJLABLA&amp=&sprefix=dog&linkCode=ll1&tag=sobieck-20&linkId=cee6129ec10b4175da5f79c5346883a8&language=en_US&ref_=as_li_ss_tl)
+1. [Amazon Basic Care Original Strength Famotidine Tablets](https://www.amazon.com/gp/product/B07MBR87NG?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=6148a01a4a78e86a77e2363cf6dec535&language=en_US&ref_=as_li_ss_tl)
+1. [Wild Planet Skipjack Wild Tuna](https://www.amazon.com/dp/B087DPG22M?amp=&crid=2HUGI178SJO8W&amp=&sprefix=tuna&linkCode=ll1&tag=sobieck-20&linkId=cd3f621659807ff1a46b3e0cd7ce3cce&language=en_US&ref_=as_li_ss_tl)
+1. [Bob's Red Mill Whole Grain Millet](https://www.amazon.com/dp/B07XPCWYP2?amp=&crid=2FPXXKJJZDKZJ&amp=&sprefix=millet&linkCode=ll1&tag=sobieck-20&linkId=428be6956acbed5b8ffc9bb7f8f3cad4&language=en_US&ref_=as_li_ss_tl) 
+
 #### 2/18/2022
 1. [Sensodyne Pronamel](https://www.amazon.com/Sensodyne-Pronamel-Whitening-Strengthening-Toothpaste/dp/B0762LYFKP?keywords=sensodyne+toothpaste&qid=1645207271&sprefix=senso%2Caps%2C134&sr=8-6&linkCode=ll1&tag=sobieck-20&linkId=23062bde4a8ed15dd2eb9643318fff65&language=en_US&ref_=as_li_ss_tl)
 1. [Tums Peppermint Ultra Strength](https://www.amazon.com/dp/B076PP4LSF?amp=&crid=34QUQXCZDUUPE&amp=&sprefix=tums&linkCode=ll1&tag=sobieck-20&linkId=835d25bebb4686656d6a0230fbab55d7&language=en_US&ref_=as_li_ss_tl)
