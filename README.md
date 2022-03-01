@@ -26,6 +26,12 @@ I tested this product 4 times. The first time I crushed up the capsule with a mo
 
 ### Negative Tests
 
+#### 2/29/2022
+1. [Benadryl 25 mg](https://www.amazon.com/dp/B00GA9AVH2?amp=&crid=1A3WX8G6HMZQC&amp=&sprefix=ben&linkCode=ll1&tag=sobieck-20&linkId=032d3e63355f7d4b4ca85d22a9c60136&language=en_US&ref_=as_li_ss_tl)
+1. [Applegate farm turkey](https://applegate.com/products/organic-roasted-turkey-breast)
+1. [Love Grown Power O's](https://www.amazon.com/gp/product/B071D6GNGY?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=1d24c070e908fe693d2086199472b6a0&language=en_US&ref_=as_li_ss_tl)
+1. [Natural Factors Magnesium Citrate 150mg](https://www.amazon.com/Natural-Factors-Magnesium-Supports-Function/dp/B00AWT9GNQ?&linkCode=ll1&tag=sobieck-20&linkId=a87b58be61c09e590ada703ed9c54a2a&language=en_US&ref_=as_li_ss_tl)
+
 #### 2/28/2022
 1. [ValuMeds 24-Hour Allergy Medicine (300-Count) Antihistamine for Pollen, Hay Fever, Dry, Itchy Eyes, Allergies | Cetirizine HCl 10mg Caplets ](https://www.amazon.com/gp/product/B07KFPLDGB?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=764b64c430c4f8efeddd4a42f96a241c&language=en_US&ref_=as_li_ss_tl)
 1. [Phillips' Milk of Magnesia Original 26 oz](https://www.amazon.com/Phillips-Milk-Magnesia-Original-Pack/dp/B01679EKPI?keywords=phillips+milk+of+magnesia&qid=1646063517&sprefix=phillips+milk%2Caps%2C102&sr=8-7&linkCode=ll1&tag=sobieck-20&linkId=f8994ab3cf8b7ca862cd2fd69af2b9c4&language=en_US&ref_=as_li_ss_tl)
