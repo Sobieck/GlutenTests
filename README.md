@@ -1,4 +1,8 @@
 ### Positive Tests
+#### 3/5/2022
+1. [Natural Balance Limited Ingredient Diet](https://www.amazon.com/gp/product/B08748H7GR?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=6b9e502c4f96bdcc49cf46181148b6bb&language=en_US&ref_=as_li_ss_tl)
+1. [Merrick Power Bites Natural Grain Free Gluten Free Soft & Chewy Chews Dog Treats](https://www.amazon.com/gp/product/B00JAEKHOG?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=9eff1fa167ec50801ab04d3d2a0b851a&language=en_US&ref_=as_li_ss_tl)
+
 #### 2/28/2022
 1. [Fromm Gold Small Breed Adult Dog Food](https://www.amazon.com/Fromm-Gold-Small-Breed-Adult/dp/B009LQ9IU2?crid=N7BWHTTW3G14&cv_ct_cx=fromm&keywords=fromm&pd_rd_i=B009LQ9IU2&pd_rd_r=a5a75ad0-c7c3-4407-aa0d-55e1b075bee3&pd_rd_w=o6Hf5&pd_rd_wg=0ElyU&pf_rd_p=dc8286ba-5f1e-4679-adde-8b7fe66c128e&pf_rd_r=3YDG68BM6RQ846QFZF66&psc=1&qid=1646060758&sprefix=fromm%2Caps%2C101&sr=1-1-5e1b2986-06e6-4004-a85e-73bfa3ee44fe&linkCode=ll1&tag=sobieck-20&linkId=bf37c676f74213c46cd66193faa15af5&language=en_US&ref_=as_li_ss_tl)
 1. [Jiminy's Cricket Protein Sweet Potato and Pea Soft & Chewy Dog Training Treats](https://www.amazon.com/gp/product/B07HRWDYRG?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=076e7cfcda158d1cfc4e0efc81314d31&language=en_US&ref_=as_li_ss_tl)
@@ -28,8 +32,6 @@ I tested this product 4 times. The first time I crushed up the capsule with a mo
 
 #### 3/5/2022
 1. Act Mouthwash
-1. [Natural Balance Limited Ingredient Diet](https://www.amazon.com/gp/product/B08748H7GR?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=6b9e502c4f96bdcc49cf46181148b6bb&language=en_US&ref_=as_li_ss_tl)
-1. [Merrick Power Bites Natural Grain Free Gluten Free Soft & Chewy Chews Dog Treats](https://www.amazon.com/gp/product/B00JAEKHOG?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=9eff1fa167ec50801ab04d3d2a0b851a&language=en_US&ref_=as_li_ss_tl)
 1. [Phillips' Laxative Magnesium Caplets](https://www.amazon.com/gp/product/B001KYVL08?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=83c763785be1c8863ff6cafc8bc83b1b&language=en_US&ref_=as_li_ss_tl)
 
 #### 2/29/2022
