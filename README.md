@@ -32,12 +32,6 @@ I tested this product 4 times. The first time I crushed up the capsule with a mo
 1. [Merrick Power Bites Natural Grain Free Gluten Free Soft & Chewy Chews Dog Treats](https://www.amazon.com/gp/product/B00JAEKHOG?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=9eff1fa167ec50801ab04d3d2a0b851a&language=en_US&ref_=as_li_ss_tl)
 1. [Phillips' Laxative Magnesium Caplets](https://www.amazon.com/gp/product/B001KYVL08?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=83c763785be1c8863ff6cafc8bc83b1b&language=en_US&ref_=as_li_ss_tl)
 
-#### 3/5/2022
-1. Act Mouthwash
-1. [Natural Balance Limited Ingredient Diet](https://www.amazon.com/gp/product/B08748H7GR?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=6b9e502c4f96bdcc49cf46181148b6bb&language=en_US&ref_=as_li_ss_tl)
-1. [Merrick Power Bites Natural Grain Free Gluten Free Soft & Chewy Chews Dog Treats](https://www.amazon.com/gp/product/B00JAEKHOG?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=9eff1fa167ec50801ab04d3d2a0b851a&language=en_US&ref_=as_li_ss_tl)
-1. [Phillips' Laxative Magnesium Caplets](https://www.amazon.com/gp/product/B001KYVL08?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=83c763785be1c8863ff6cafc8bc83b1b&language=en_US&ref_=as_li_ss_tl)
-
 #### 2/29/2022
 1. [Benadryl 25 mg](https://www.amazon.com/dp/B00GA9AVH2?amp=&crid=1A3WX8G6HMZQC&amp=&sprefix=ben&linkCode=ll1&tag=sobieck-20&linkId=032d3e63355f7d4b4ca85d22a9c60136&language=en_US&ref_=as_li_ss_tl)
 1. [Applegate farm turkey](https://applegate.com/products/organic-roasted-turkey-breast)
