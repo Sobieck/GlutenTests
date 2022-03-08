@@ -30,6 +30,12 @@ I tested this product 4 times. The first time I crushed up the capsule with a mo
 
 ### Negative Tests
 
+#### 3/8/2022
+1. [Bob's Red Mill Organic Amaranth Grain](https://www.amazon.com/gp/product/B00MFC1NR0?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=3b09dee1f341edc5ed830e30c926774f&language=en_US&ref_=as_li_ss_tl)
+1. [Tums Ultra 1000 Antacid Chewable Tablets Peppermint](https://www.amazon.com/gp/product/B0009RF8TW?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=164eaa3e6ebc2bb0e5afe69327edad01&language=en_US&ref_=as_li_ss_tl)
+1. [Aleve ALL DAY Strong Pain/fever Reducer Naproxen Sodium Tablets , 220 Mg (Nsaid)](https://www.amazon.com/gp/product/B00FGA1HGU?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=54f4496c8cb55c0593dcbd2d2c0e3627&language=en_US&ref_=as_li_ss_tl)
+1. [Spice World, Minced Garlic](https://spiceworldinc.com/consumer/products/garlic/garlic-ready-to-use-minced-garlic/)
+
 #### 3/5/2022
 1. Act Mouthwash
 1. [Phillips' Laxative Magnesium Caplets](https://www.amazon.com/gp/product/B001KYVL08?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=83c763785be1c8863ff6cafc8bc83b1b&language=en_US&ref_=as_li_ss_tl)
