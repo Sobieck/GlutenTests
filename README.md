@@ -1,4 +1,8 @@
 ### Positive Tests
+
+#### 3/10/2022
+1. [Royal Canin Hydrolyzed Protein Small Dog Dry Dog Food](https://www.royalcanin.com/us/dogs/products/vet-products/canine-hydrolyzed-protein-small-dog-dry-dog-food)
+
 #### 3/5/2022
 1. [Natural Balance Limited Ingredient Diet](https://www.amazon.com/gp/product/B08748H7GR?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=6b9e502c4f96bdcc49cf46181148b6bb&language=en_US&ref_=as_li_ss_tl)
 1. [Merrick Power Bites Natural Grain Free Gluten Free Soft & Chewy Chews Dog Treats](https://www.amazon.com/gp/product/B00JAEKHOG?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=9eff1fa167ec50801ab04d3d2a0b851a&language=en_US&ref_=as_li_ss_tl)
@@ -31,7 +35,6 @@ I tested this product 4 times. The first time I crushed up the capsule with a mo
 ### Negative Tests
 
 #### 3/10/2022
-1. [Royal Canin Hydrolyzed Protein Small Dog Dry Dog Food](https://www.royalcanin.com/us/dogs/products/vet-products/canine-hydrolyzed-protein-small-dog-dry-dog-food)
 1. [Mixed Vegetables](https://www.birdseye.com/plain-vegetables/steamfresh/mixed-vegetables)
 1. [Applegate Naturals® Oven Roasted Chicken Breast](https://www.applegate.com/products/natural-roasted-chicken-breast)
 1. [Nishiki Premium Brown Rice, 15-Pounds Bag](https://www.amazon.com/dp/B004NRHAZO?amp=&crid=2OQO2JOBI2WAS&amp=&sprefix=brown+&linkCode=ll1&tag=sobieck-20&linkId=f26e217ae68199a02763ff5ea0d2a8c9&language=en_US&ref_=as_li_ss_tl)
