@@ -1,5 +1,9 @@
 ### Positive Tests
 
+#### 3/12/2022
+1. [Royal Canin Hydrolyzed Protein Small Dog Dry Dog Food](https://www.royalcanin.com/us/dogs/products/vet-products/canine-hydrolyzed-protein-small-dog-dry-dog-food)
+1. [VICTOR Classic - Multi-Pro, Dry Dog Food](https://www.amazon.com/gp/product/B01IB156BW?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=467f16427291c2e64401824459b2c6e7&language=en_US&ref_=as_li_ss_tl)
+
 #### 3/10/2022
 1. [Royal Canin Hydrolyzed Protein Small Dog Dry Dog Food](https://www.royalcanin.com/us/dogs/products/vet-products/canine-hydrolyzed-protein-small-dog-dry-dog-food)
 
@@ -33,6 +37,10 @@ I tested this product 4 times. The first time I crushed up the capsule with a mo
 1. Wheat Cereal to see if the tests worked
 
 ### Negative Tests
+
+#### 3/12/2022
+1. [San-J Tamari Gluten Free Soy Sauce, Black Bottle](https://www.amazon.com/dp/B01BMYSNSS?amp=&crid=IR6UNWF4V2Z0&amp=&sprefix=soy+sauc&linkCode=ll1&tag=sobieck-20&linkId=543b45665e3e701d4b5a60d2e611fc59&language=en_US&ref_=as_li_ss_tl)
+1. [Bob's Red Mill Whole Grain Teff](https://www.amazon.com/gp/product/B07XTNQ441?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=38ad67364285dd5824046c11f96a36c1&language=en_US&ref_=as_li_ss_tl)
 
 #### 3/10/2022
 1. [Mixed Vegetables](https://www.birdseye.com/plain-vegetables/steamfresh/mixed-vegetables)
