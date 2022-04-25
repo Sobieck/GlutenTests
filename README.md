@@ -38,10 +38,18 @@ I tested this product 4 times. The first time I crushed up the capsule with a mo
 
 ### Negative Tests
 
+#### 4/25/2022
+1. Schnucks Tomatos Sauce 15 oz
+1. [Morton Iodized Table Salt](https://www.amazon.com/Morton-Iodized-Table-Salt-pack/dp/B07RCK4WFT?keywords=morton+iodized+salt&qid=1649858862&s=grocery&sprefix=Morton+i%2Cgrocery%2C97&sr=1-1&linkCode=ll1&tag=sobieck-20&linkId=d2f566bb71d2c47652a173ba2a60c6d7&language=en_US&ref_=as_li_ss_tl)
+1. [Miralax Supplement](https://www.amazon.com/dp/B00XZ0QFYC?amp=&crid=35DI1UAZ1RJFQ&amp=&sprefix=miralax&linkCode=ll1&tag=sobieck-20&linkId=0932292a2c89def4dadcd704a558499d&language=en_US&ref_=as_li_ss_tl)
+1. [Amazon Basic Care Original Strength Famotidine Tablets](https://www.amazon.com/gp/product/B07MBR87NG?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=6148a01a4a78e86a77e2363cf6dec535&language=en_US&ref_=as_li_ss_tl)
+1. [Visbiome® High Potency Probiotic Capsules 112.5 Billion CF](https://www.amazon.com/gp/product/B06XDBD9T9?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=323fbfe4bcc794f29e929f9ea6bb1545&language=en_US&ref_=as_li_ss_tl)
+1. [Azelastine HCI Spray 137 mcg per spray NDC: 60505-0833-05](https://ndclist.com/ndc/60505-0833/package/60505-0833-5)
+1. [Pedialyte Electrolyte Powder, Strawberry Lemonade, Electrolyte Hydration Drink, 0.6 Ounce Powder Packs](https://www.amazon.com/Pedialyte-Electrolyte-Powder-Hydration-Cherry/dp/B00URXQOXM?crid=3OG3EY02FX9G0&cv_ct_cx=pedialyte&keywords=pedialyte&pd_rd_i=B01DFA1VI6&pd_rd_r=fc35b902-8474-45e1-b89d-bc95a47340d4&pd_rd_w=XYTmF&pd_rd_wg=fh6Dc&pf_rd_p=4bf4bfb7-01d6-422f-8e64-ff8707d77d6c&pf_rd_r=YBYMHY9KM2YJDKJXRW6K&qid=1650902678&sprefix=pedialyte%2Caps%2C117&sr=1-1-5985efba-8948-4f09-9122-d605505c9d1e&th=1&linkCode=ll1&tag=sobieck-20&linkId=fd3282bd9f55eeab9c8aeba756a41666&language=en_US&ref_=as_li_ss_tl)
+
 #### 4/13/2022
 1. [Phillips' Milk of Magnesia Liquid Laxative, Wild Cherry](https://www.amazon.com/gp/product/B005TM4DMK?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=d6ff1729865d51c74ea014fd1af6da23&language=en_US&ref_=as_li_ss_tl)
 1. [Prunes](https://www.amazon.com/gp/product/B092NRYLFD?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=2c12b18e780a6bc59901f8554a85e91d&language=en_US&ref_=as_li_ss_tl)
-1. [Morton Iodized Table Salt](https://www.amazon.com/Morton-Iodized-Table-Salt-pack/dp/B07RCK4WFT?keywords=morton+iodized+salt&qid=1649858862&s=grocery&sprefix=Morton+i%2Cgrocery%2C97&sr=1-1&linkCode=ll1&tag=sobieck-20&linkId=d2f566bb71d2c47652a173ba2a60c6d7&language=en_US&ref_=as_li_ss_tl)
 1. [Olive Oil Conditioner - Regis DESIGNLINE](https://www.amazon.com/Olive-Oil-Conditioner-DESIGNLINE-Environmental/dp/B07K1KPQZT?crid=EXWJCO2AFZYD&keywords=designline+olive+oil+shampoo&qid=1649858985&sprefix=designline+olive+oil+shampoo%2Caps%2C99&sr=8-3&linkCode=ll1&tag=sobieck-20&linkId=e0d3e0928244410656bb33d68af88aab&language=en_US&ref_=as_li_ss_tl)
 1. [Olive Oil Shampoo - Regis DESIGNLINE](https://www.amazon.com/Olive-Oil-Shampoo-DESIGNLINE-Environmental/dp/B07JGCPVZX?pd_rd_w=bvGRt&pf_rd_p=6b3eefea-7b16-43e9-bc45-2e332cbf99da&pf_rd_r=B3M675S2V26765HPAKWW&pd_rd_r=b17646b4-1978-4330-80aa-dc23728dea73&pd_rd_wg=Q57Se&pd_rd_i=B07JGCPVZX&psc=1&linkCode=ll1&tag=sobieck-20&linkId=c43899e467dc16af8ca649e580237fe7&language=en_US&ref_=as_li_ss_tl)
 1. [HPR Cream 42546-030-45]()
