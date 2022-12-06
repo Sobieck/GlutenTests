@@ -43,6 +43,13 @@ I tested this product 4 times. The first time I crushed up the capsule with a mo
 1. Wheat Cereal to see if the tests worked
 
 ### Negative Tests
+#### 12/6/2022
+1. [Benevolent Natural Melatonin Liquid 3mg](https://www.amazon.com/gp/product/B01FL9MXXG?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=8c2030a827672636bde8655ef31ec2f7&language=en_US&ref_=as_li_ss_tl)
+1. [Nature's Bounty Vitamin B Complex Sublingual Liquid 2 oz](https://www.amazon.com/gp/product/B076PP4LSF?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=5c6258b21c895d4a7b4759859af58608&language=en_US&ref_=as_li_ss_tl)
+1. [Natural Factors Magnesium Citrate 150mg](https://www.amazon.com/Natural-Factors-Magnesium-Supports-Function/dp/B00AWT9GNQ?&linkCode=ll1&tag=sobieck-20&linkId=a87b58be61c09e590ada703ed9c54a2a&language=en_US&ref_=as_li_ss_tl)
+1. Clovers Zinc
+1. Clovers Vitamin D3
+1. [Equate Famotidine](https://www.amazon.com/Famotidine-Original-Heartburn-Indigestion-Idea/dp/B08R7WM3XT/ref=sr_1_3?crid=18YT4LNUL3SX1&keywords=famotidine%2C+equate&qid=1670340705&sprefix=famotidine%2C+equate%2Caps%2C104&sr=8-3)
 
 #### 6/11/2022
 1. [Natural Factors Magnesium Citrate 150mg](https://www.amazon.com/Natural-Factors-Magnesium-Supports-Function/dp/B00AWT9GNQ?&linkCode=ll1&tag=sobieck-20&linkId=a87b58be61c09e590ada703ed9c54a2a&language=en_US&ref_=as_li_ss_tl)
