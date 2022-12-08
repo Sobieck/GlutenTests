@@ -1,5 +1,8 @@
 ### Positive Tests
 
+#### 12/6/2022
+1. Clovers Zinc
+
 #### 6/11/2022
 1. [GREENIES Grain Free Natural Dental Dog Treats](https://www.amazon.com/GREENIES-TEENIE-Natural-Dental-Treats/dp/B01MUG17DO?content-id=amzn1.sym.0ba0477a-40ed-4e81-ad3d-4795b0f9f147%3Aamzn1.sym.0ba0477a-40ed-4e81-ad3d-4795b0f9f147&crid=SEYEP1D8IPLF&cv_ct_cx=greenies+dental+treats+for+dogs&keywords=greenies+dental+treats+for+dogs&pd_rd_i=B01MUG17DO&pd_rd_r=3e49bb37-016f-4436-9471-982bf6e36510&pd_rd_w=AdM4b&pd_rd_wg=94y7G&pf_rd_p=0ba0477a-40ed-4e81-ad3d-4795b0f9f147&pf_rd_r=HR4SDAN5EN3RNPPFXA16&psc=1&qid=1654957173&rdc=1&sprefix=green%2Caps%2C107&sr=1-1-f0029781-b79b-4b60-9cb0-eeda4dea34d6&linkCode=ll1&tag=sobieck-20&linkId=b23bc1ab911398eeec0db1ccdf3c0972&language=en_US&ref_=as_li_ss_tl)
 
@@ -43,6 +46,13 @@ I tested this product 4 times. The first time I crushed up the capsule with a mo
 1. Wheat Cereal to see if the tests worked
 
 ### Negative Tests
+#### 12/8/2022
+1. [Benevolent Natural Melatonin Liquid 3mg](https://www.amazon.com/gp/product/B01FL9MXXG?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=8c2030a827672636bde8655ef31ec2f7&language=en_US&ref_=as_li_ss_tl)
+1. Clovers Zinc
+1. Clovers Zinc
+1. [ValuMeds 24-Hour Allergy Medicine (300-Count) Antihistamine for Pollen, Hay Fever, Dry, Itchy Eyes, Allergies | Cetirizine HCl 10mg Caplets ](https://www.amazon.com/gp/product/B07KFPLDGB?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=764b64c430c4f8efeddd4a42f96a241c&language=en_US&ref_=as_li_ss_tl)
+1. [Visbiome® High Potency Probiotic Capsules 112.5 Billion CF](https://www.amazon.com/gp/product/B06XDBD9T9?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=323fbfe4bcc794f29e929f9ea6bb1545&language=en_US&ref_=as_li_ss_tl)
+
 #### 12/6/2022
 1. [Benevolent Natural Melatonin Liquid 3mg](https://www.amazon.com/gp/product/B01FL9MXXG?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=8c2030a827672636bde8655ef31ec2f7&language=en_US&ref_=as_li_ss_tl)
 1. [Nature's Bounty Vitamin B Complex Sublingual Liquid 2 oz](https://www.amazon.com/gp/product/B076PP4LSF?ie=UTF8&psc=1&linkCode=ll1&tag=sobieck-20&linkId=5c6258b21c895d4a7b4759859af58608&language=en_US&ref_=as_li_ss_tl)
